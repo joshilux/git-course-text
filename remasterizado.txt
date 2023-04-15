@@ -1,0 +1,1 @@
+Hola este es una pribea de como duoplicar un proyecto desde git
