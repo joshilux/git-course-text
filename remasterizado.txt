@@ -1,1 +1,2 @@
 Hola este es una pribea de como duoplicar un proyecto desde git
+Y ahora este es modificado  desde github
